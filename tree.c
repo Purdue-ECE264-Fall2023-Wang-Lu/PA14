@@ -57,11 +57,9 @@ void preOrder(Tree * tr, char * filename)
 // *** You MUST modify the follow function
 // ***
 
-#ifdef TEST_BUILDTREE
 // Consider the algorithm posted on
 // https://www.geeksforgeeks.org/construct-a-binary-tree-from-postorder-and-inorder/
 
 Tree * buildTree(int * inArray, int * postArray, int size)
 {
 }
-#endif
